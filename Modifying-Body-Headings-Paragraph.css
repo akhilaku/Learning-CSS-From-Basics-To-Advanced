@@ -1,12 +1,15 @@
+/* To change the background colour of the 'body' part */
 body {
   background-color: lightblue;
 }
 
+/* To change the colour and alignment of the heading 'h1' */
 h1 {
   color: white;
   text-align: center;
 }
 
+/* To change the font and font-sixe o the paragraph 'p' */
 p {
   font-family: verdana;
   font-size: 20px;
