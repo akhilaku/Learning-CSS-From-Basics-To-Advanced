@@ -1,0 +1,14 @@
+/* In this example all HTML elements with class="center" will be red and center-aligned: */
+
+.center {
+  text-align: center;
+  color: red;
+}
+
+/* In this example only <p> elements with class="center" will be center-aligned:  */
+
+p.center {
+  text-align: center;
+  color: red;
+}
+
