@@ -19,3 +19,8 @@
 /* Text Shadow */
 <h2 class="my-blue" style="text-shadow:1px 1px 0 #444">Text Shadow</h2>
 
+/* special effects in text */
+<div class="my-panel my-pink">
+  <h1 class="my-opacity">
+  <b>Text Opacity + Bold</b></h1>
+</div>
