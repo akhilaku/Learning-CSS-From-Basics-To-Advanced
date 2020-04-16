@@ -10,3 +10,9 @@
   <img src="image1.jpg" alt="image1" style="width:80%;max-width:320px">
   <p>Some centered text.</p>
 </div>
+
+/* Text Opacity */
+<div class="my-panel my-pink">
+  <h2 class="my-opacity">Text Opacity</h2>
+</div>
+
