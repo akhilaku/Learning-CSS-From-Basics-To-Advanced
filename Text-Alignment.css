@@ -16,3 +16,6 @@
   <h2 class="my-opacity">Text Opacity</h2>
 </div>
 
+/* Text Shadow */
+<h2 class="my-blue" style="text-shadow:1px 1px 0 #444">Text Shadow</h2>
+
