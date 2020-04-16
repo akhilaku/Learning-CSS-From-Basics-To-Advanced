@@ -3,3 +3,10 @@
   <div class="w3-left-align"><p>Left aligned text.</p></div>
   <div class="w3-right-align"><p>Right aligned text.</p></div>
 </div>
+
+/* Text Alignment to Center */
+<div class="My-container My-center">
+  <h2>Centered Content</h2>
+  <img src="image1.jpg" alt="image1" style="width:80%;max-width:320px">
+  <p>Some centered text.</p>
+</div>
